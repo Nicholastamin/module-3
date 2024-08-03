@@ -1,0 +1,21 @@
+data pengguna
+
+name: i
+email: i@gmail.com
+address: i
+date: 2024-08-02
+
+name: i
+email: i@gmail.com
+address: i
+date: 2024-08-02
+
+name: i
+email: i@gmail.com
+address: i
+date: 2024-08-02
+
+name: i
+email: i@gmail.com
+address: i
+date: 2024-08-02

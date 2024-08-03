@@ -110,6 +110,25 @@ main {
     align-items: center;
     gap: 50px;
 }
+.form__result {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+
+
+.head__text{
+    
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: fit-content;
+    text-align: center;
+}
+
+
 
 
 .user input {
@@ -140,6 +159,7 @@ main {
     display: flex;
     flex-direction: column;
     gap: 40px;
+    
 }
 
 label {
